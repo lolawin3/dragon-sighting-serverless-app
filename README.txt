@@ -13,3 +13,6 @@ Resources needed in your AWS account before beginning the demos:
         i. Use dragon_data_bucket_name for the name of the parameter
     b. One parameter for the key name, unencrypted
         i. Use dragon_data_file_name for the name of the parameter
+
+**ARCHITECTURE FOR THE PROJECT**
+https://github.com/lolawin3/dragon-sighting-serverless-app/blob/main/Architecture.png 
